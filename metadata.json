@@ -1,0 +1,5 @@
+{
+  "name": "Seminar Flow Timer",
+  "description": "A high-visibility seminar facilitator timer with schedule management, color-coded sessions, and audio alerts.",
+  "requestFramePermissions": []
+}
